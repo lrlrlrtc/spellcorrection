@@ -1,1 +1,2 @@
 I'm lr
+Creating a new branch is quick AND simple
